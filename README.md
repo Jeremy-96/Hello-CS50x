@@ -1,4 +1,4 @@
-# Hello World :waves:
+# Hello World 
 
 ## Introduction
 
