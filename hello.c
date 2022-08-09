@@ -1,4 +1,5 @@
 #include <stdio.h>
+// note the library below is specific to cs50 course
 #include <cs50.h>
 
 int main(void)
