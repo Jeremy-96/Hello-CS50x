@@ -1,12 +1,12 @@
-# Hello World 
+# **Hello World**
 
-## Introduction
+## **Introduction**
 
 I begun the course of CS50 by Harvard on edx platform and the first step is to learn C language.  
 Watch the first lines of code i wrote in C.
 
 
-## Note
+## **Note**
 
 Include standard library
 ``` 
@@ -41,7 +41,7 @@ And see the result in command line tool
 Hello, Charles 
 ```
 
-### Summary
+### **Conclusion**
 
 To start learning this language, this is a simple and fun little program.  
 On the way to the next step :soon:
